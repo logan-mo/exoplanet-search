@@ -1,0 +1,13 @@
+[project]
+name = "exoplanet-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "lightkurve>=2.6.0",
+    "matplotlib>=3.11.2",
+    "oktopus>=0.1.2",
+]
